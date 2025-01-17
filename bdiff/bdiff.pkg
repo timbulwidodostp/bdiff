@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'bdiff': Bootstrap and Permutation tests for difference in coefficients between two groups Use bdiff With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bdiff.ado
+f bdiff.sthlp
